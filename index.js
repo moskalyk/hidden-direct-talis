@@ -34,7 +34,7 @@ class Talis extends EventEmitter {
                   : 
                         this.XII()
                   const prism = chalk.hex(hex)
-                  console.log(prism(`; ${pen} is ok`));
+                  console.log(prism(`; ${pen} is not good, not bad`));
             })
       }
 
