@@ -52,7 +52,7 @@ const library = {
       24: 'ORANGE',
       25: 'YELLOW',
       26: 'GREEN',
-      27: 'BLUE',
+      27: 'CYAN',
       28: '◨',
       29: '❍',
       30: '∞',
